@@ -15,5 +15,7 @@
 ## Output
 <br>
 <p float="left">
-  <img src="https://github.com/manavshah123/Ecommerce_with_API_React_Native/blob/master/OP/Screenshot_1645446095.png" width = 200/>
+  <img src="https://github.com/manavshah123/Ecommerce_with_API_React_Native/blob/master/OP/Screenshot_1645446095.png" width = 300/>
+  <img src="https://github.com/manavshah123/Ecommerce_with_API_React_Native/blob/master/OP/Screenshot_1645446121.png" width = 300/>
+  <img src="https://github.com/manavshah123/Ecommerce_with_API_React_Native/blob/master/OP/Screenshot_1645446126.png" width = 300/>
 </p>
